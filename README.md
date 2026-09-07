@@ -15,7 +15,8 @@ This project analyzes online retail data to uncover key business insights, track
 - `dashboard/` : Screenshot of the final Power BI interactive dashboard.
 
 ## 📈 Dashboard Preview
-*(Note: Place your Power BI screenshot inside a 'dashboard' folder and name it dashboard_preview.png)*
+<img width="1321" height="731" alt="Online_Retail" src="https://github.com/user-attachments/assets/5e86ccb2-6e73-4815-ab02-1e147f0818ec" />
+
 
 ## 🚀 Key Insights & Features
 - **KPI Cards:** Track Total Revenue, Total Orders, Total Unique Customers, and Average Order Value (AOV) dynamically.
