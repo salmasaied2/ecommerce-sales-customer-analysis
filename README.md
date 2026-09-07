@@ -15,7 +15,6 @@ This project analyzes online retail data to uncover key business insights, track
 - `dashboard/` : Screenshot of the final Power BI interactive dashboard.
 
 ## 📈 Dashboard Preview
-![Dashboard Preview](dashboard/dashboard_preview.png)
 *(Note: Place your Power BI screenshot inside a 'dashboard' folder and name it dashboard_preview.png)*
 
 ## 🚀 Key Insights & Features
